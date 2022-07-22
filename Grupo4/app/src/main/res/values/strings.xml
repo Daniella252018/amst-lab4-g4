@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grupo 4</string>
+    <string name="registros_de_temperatura">Registros de temperatura</string>
+    <string name="fecha_obtenida">Fecha obtenida</string>
+    <string name="recarga_en_tiempo_real">Recarga en tiempo real</string>
+    <string name="escoger_el_id_de_la_temperatura_que_desea_eliminar">Escoger el id de la temperatura que desea eliminar</string>
+    <string name="eliminar_temperatura">Eliminar Temperatura</string>
+</resources>
